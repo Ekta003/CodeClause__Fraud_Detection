@@ -8,3 +8,4 @@ Step1: To make our dataset balanced (by undersampling and oversampling as our cl
 Step2: After getting balanced data we will predict the target variable using various models such as logistic regression,decision tree,random tree 
 Step3: Here, after performing these models we will compare the accuracy score of the best model 
 Step4: Save the model and predict whether the transaction is normal or fraud
+
